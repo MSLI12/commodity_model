@@ -1,2 +1,2 @@
-# economy_x
-Model of the US Economy.
+# commodity model
+a basic combination of time series analysis for weather and economic data (global/US).
